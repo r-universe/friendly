@@ -1,0 +1,42 @@
+[
+  {
+    "package": "candisc",
+    "oncran": true
+  },
+  {
+    "package": "gellipsoid",
+    "oncran": true
+  },
+  {
+    "package": "genridge",
+    "oncran": true
+  },
+  {
+    "package": "Guerry",
+    "oncran": true
+  },
+  {
+    "package": "heplots",
+    "oncran": true
+  },
+  {
+    "package": "matlib",
+    "oncran": true
+  },
+  {
+    "package": "mvinfluence",
+    "oncran": true
+  },
+  {
+    "package": "statquotes",
+    "oncran": true
+  },
+  {
+    "package": "twoway",
+    "oncran": true
+  },
+  {
+    "package": "vcdExtra",
+    "oncran": true
+  }
+]
