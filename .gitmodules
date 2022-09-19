@@ -28,11 +28,6 @@
 	url = https://github.com/friendly/heplots
 	shallow = true
 	registered = true
-[submodule "matlib"]
-	path = matlib
-	url = https://github.com/friendly/matlib
-	shallow = true
-	registered = true
 [submodule "mvinfluence"]
 	path = mvinfluence
 	url = https://github.com/friendly/mvinfluence
