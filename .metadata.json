@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "HistData",
+    "oncran": true
+  },
+  {
     "package": "matlib",
     "oncran": true
   },
@@ -37,6 +41,10 @@
   },
   {
     "package": "vcdExtra",
+    "oncran": true
+  },
+  {
+    "package": "WordPools",
     "oncran": true
   }
 ]

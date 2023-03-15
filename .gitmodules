@@ -28,6 +28,11 @@
 	url = https://github.com/friendly/heplots
 	shallow = true
 	registered = true
+[submodule "HistData"]
+	path = HistData
+	url = https://github.com/friendly/histdata
+	shallow = true
+	registered = true
 [submodule "matlib"]
 	path = matlib
 	url = https://github.com/friendly/matlib
@@ -51,5 +56,10 @@
 [submodule "vcdExtra"]
 	path = vcdExtra
 	url = https://github.com/friendly/vcdextra
+	shallow = true
+	registered = true
+[submodule "WordPools"]
+	path = WordPools
+	url = https://github.com/friendly/wordpools
 	shallow = true
 	registered = true
