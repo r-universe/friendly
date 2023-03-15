@@ -1,18 +1,18 @@
 [
   {
-    "package": "candisc",
-    "oncran": true
-  },
-  {
-    "package": "gellipsoid",
-    "oncran": true
-  },
-  {
-    "package": "genridge",
+    "package": "vcdExtra",
     "oncran": true
   },
   {
     "package": "Guerry",
+    "oncran": true
+  },
+  {
+    "package": "statquotes",
+    "oncran": true
+  },
+  {
+    "package": "genridge",
     "oncran": true
   },
   {
@@ -24,11 +24,11 @@
     "oncran": true
   },
   {
-    "package": "mvinfluence",
+    "package": "gellipsoid",
     "oncran": true
   },
   {
-    "package": "statquotes",
+    "package": "candisc",
     "oncran": true
   },
   {
@@ -36,7 +36,7 @@
     "oncran": true
   },
   {
-    "package": "vcdExtra",
+    "package": "mvinfluence",
     "oncran": true
   }
 ]
