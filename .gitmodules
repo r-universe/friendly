@@ -3,24 +3,24 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "vcdExtra"]
-	path = vcdExtra
-	url = https://github.com/friendly/vcdextra
+[submodule "candisc"]
+	path = candisc
+	url = https://github.com/friendly/candisc
 	shallow = true
 	registered = true
-[submodule "Guerry"]
-	path = Guerry
-	url = https://github.com/friendly/guerry
-	shallow = true
-	registered = true
-[submodule "statquotes"]
-	path = statquotes
-	url = https://github.com/friendly/statquotes
+[submodule "gellipsoid"]
+	path = gellipsoid
+	url = https://github.com/friendly/gellipsoid
 	shallow = true
 	registered = true
 [submodule "genridge"]
 	path = genridge
 	url = https://github.com/friendly/genridge
+	shallow = true
+	registered = true
+[submodule "Guerry"]
+	path = Guerry
+	url = https://github.com/friendly/guerry
 	shallow = true
 	registered = true
 [submodule "heplots"]
@@ -33,14 +33,14 @@
 	url = https://github.com/friendly/matlib
 	shallow = true
 	registered = true
-[submodule "gellipsoid"]
-	path = gellipsoid
-	url = https://github.com/friendly/gellipsoid
+[submodule "mvinfluence"]
+	path = mvinfluence
+	url = https://github.com/friendly/mvinfluence
 	shallow = true
 	registered = true
-[submodule "candisc"]
-	path = candisc
-	url = https://github.com/friendly/candisc
+[submodule "statquotes"]
+	path = statquotes
+	url = https://github.com/friendly/statquotes
 	shallow = true
 	registered = true
 [submodule "twoway"]
@@ -48,8 +48,8 @@
 	url = https://github.com/friendly/twoway
 	shallow = true
 	registered = true
-[submodule "mvinfluence"]
-	path = mvinfluence
-	url = https://github.com/friendly/mvinfluence
+[submodule "vcdExtra"]
+	path = vcdExtra
+	url = https://github.com/friendly/vcdextra
 	shallow = true
 	registered = true
