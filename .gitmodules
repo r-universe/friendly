@@ -43,6 +43,11 @@
 	url = https://github.com/friendly/mvinfluence
 	shallow = true
 	registered = true
+[submodule "nestedLogit"]
+	path = nestedLogit
+	url = https://github.com/friendly/nestedlogit
+	shallow = true
+	registered = true
 [submodule "statquotes"]
 	path = statquotes
 	url = https://github.com/friendly/statquotes
