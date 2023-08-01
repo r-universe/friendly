@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Guerry"]
+	path = Guerry
+	url = https://github.com/friendly/guerry
+[submodule "HistData"]
+	path = HistData
+	url = https://github.com/friendly/histdata
+[submodule "WordPools"]
+	path = WordPools
+	url = https://github.com/friendly/wordpools
 [submodule "candisc"]
 	path = candisc
 	url = https://github.com/friendly/candisc
@@ -11,15 +20,9 @@
 [submodule "genridge"]
 	path = genridge
 	url = https://github.com/friendly/genridge
-[submodule "Guerry"]
-	path = Guerry
-	url = https://github.com/friendly/guerry
 [submodule "heplots"]
 	path = heplots
 	url = https://github.com/friendly/heplots
-[submodule "HistData"]
-	path = HistData
-	url = https://github.com/friendly/histdata
 [submodule "matlib"]
 	path = matlib
 	url = https://github.com/friendly/matlib
@@ -38,6 +41,3 @@
 [submodule "vcdExtra"]
 	path = vcdExtra
 	url = https://github.com/friendly/vcdextra
-[submodule "WordPools"]
-	path = WordPools
-	url = https://github.com/friendly/wordpools
