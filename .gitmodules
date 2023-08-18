@@ -8,6 +8,9 @@
 [submodule "HistData"]
 	path = HistData
 	url = https://github.com/friendly/histdata
+[submodule "VisCollin"]
+	path = VisCollin
+	url = https://github.com/friendly/viscollin
 [submodule "WordPools"]
 	path = WordPools
 	url = https://github.com/friendly/wordpools
