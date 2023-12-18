@@ -23,6 +23,9 @@
 [submodule "genridge"]
 	path = genridge
 	url = https://github.com/friendly/genridge
+[submodule "ggbiplot"]
+	path = ggbiplot
+	url = https://github.com/friendly/ggbiplot
 [submodule "heplots"]
 	path = heplots
 	url = https://github.com/friendly/heplots
