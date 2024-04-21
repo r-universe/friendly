@@ -1,49 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/friendly/friendly.r-universe.dev
 	branch = HEAD
-[submodule "Guerry"]
-	path = Guerry
-	url = https://github.com/friendly/guerry
-[submodule "HistData"]
-	path = HistData
-	url = https://github.com/friendly/histdata
 [submodule "VisCollin"]
 	path = VisCollin
-	url = https://github.com/friendly/viscollin
-[submodule "WordPools"]
-	path = WordPools
-	url = https://github.com/friendly/wordpools
+	url = https://github.com/friendly/VisCollin
 [submodule "candisc"]
 	path = candisc
 	url = https://github.com/friendly/candisc
-[submodule "gellipsoid"]
-	path = gellipsoid
-	url = https://github.com/friendly/gellipsoid
-[submodule "genridge"]
-	path = genridge
-	url = https://github.com/friendly/genridge
-[submodule "ggbiplot"]
-	path = ggbiplot
-	url = https://github.com/friendly/ggbiplot
 [submodule "heplots"]
 	path = heplots
 	url = https://github.com/friendly/heplots
-[submodule "matlib"]
-	path = matlib
-	url = https://github.com/friendly/matlib
 [submodule "mvinfluence"]
 	path = mvinfluence
 	url = https://github.com/friendly/mvinfluence
-[submodule "nestedLogit"]
-	path = nestedLogit
-	url = https://github.com/friendly/nestedlogit
-[submodule "statquotes"]
-	path = statquotes
-	url = https://github.com/friendly/statquotes
-[submodule "twoway"]
-	path = twoway
-	url = https://github.com/friendly/twoway
-[submodule "vcdExtra"]
-	path = vcdExtra
-	url = https://github.com/friendly/vcdextra
