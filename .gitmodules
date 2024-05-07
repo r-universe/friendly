@@ -2,15 +2,27 @@
 	path = .registry
 	url = https://github.com/friendly/friendly.r-universe.dev
 	branch = HEAD
+[submodule "HistData"]
+	path = HistData
+	url = https://github.com/friendly/HistData
 [submodule "VisCollin"]
 	path = VisCollin
 	url = https://github.com/friendly/VisCollin
 [submodule "candisc"]
 	path = candisc
 	url = https://github.com/friendly/candisc
+[submodule "genridge"]
+	path = genridge
+	url = https://github.com/friendly/genridge
 [submodule "heplots"]
 	path = heplots
 	url = https://github.com/friendly/heplots
+[submodule "matlib"]
+	path = matlib
+	url = https://github.com/friendly/matlib
 [submodule "mvinfluence"]
 	path = mvinfluence
 	url = https://github.com/friendly/mvinfluence
+[submodule "vcdExtra"]
+	path = vcdExtra
+	url = https://github.com/friendly/vcdExtra
