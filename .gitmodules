@@ -14,6 +14,9 @@
 [submodule "genridge"]
 	path = genridge
 	url = https://github.com/friendly/genridge
+[submodule "ggbiplot"]
+	path = ggbiplot
+	url = https://github.com/friendly/ggbiplot
 [submodule "heplots"]
 	path = heplots
 	url = https://github.com/friendly/heplots
@@ -23,6 +26,9 @@
 [submodule "mvinfluence"]
 	path = mvinfluence
 	url = https://github.com/friendly/mvinfluence
+[submodule "nestedLogit"]
+	path = nestedLogit
+	url = https://github.com/friendly/nestedLogit
 [submodule "vcdExtra"]
 	path = vcdExtra
 	url = https://github.com/friendly/vcdExtra
