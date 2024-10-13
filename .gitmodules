@@ -2,12 +2,21 @@
 	path = .registry
 	url = https://github.com/friendly/friendly.r-universe.dev
 	branch = HEAD
+[submodule "Guerry"]
+	path = Guerry
+	url = https://github.com/friendly/Guerry
 [submodule "HistData"]
 	path = HistData
 	url = https://github.com/friendly/HistData
+[submodule "Lahman"]
+	path = Lahman
+	url = https://github.com/cdalzell/Lahman
 [submodule "VisCollin"]
 	path = VisCollin
 	url = https://github.com/friendly/VisCollin
+[submodule "WordPools"]
+	path = WordPools
+	url = https://github.com/friendly/WordPools
 [submodule "candisc"]
 	path = candisc
 	url = https://github.com/friendly/candisc
