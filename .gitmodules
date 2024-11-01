@@ -38,6 +38,9 @@
 [submodule "nestedLogit"]
 	path = nestedLogit
 	url = https://github.com/friendly/nestedLogit
+[submodule "twoway"]
+	path = twoway
+	url = https://github.com/friendly/twoway
 [submodule "vcdExtra"]
 	path = vcdExtra
 	url = https://github.com/friendly/vcdExtra
