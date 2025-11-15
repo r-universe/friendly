@@ -20,6 +20,12 @@
 [submodule "candisc"]
 	path = candisc
 	url = https://github.com/friendly/candisc
+[submodule "colorize"]
+	path = colorize
+	url = https://github.com/friendly/colorize
+[submodule "gellipsoid"]
+	path = gellipsoid
+	url = https://github.com/friendly/gellipsoid
 [submodule "genridge"]
 	path = genridge
 	url = https://github.com/friendly/genridge
