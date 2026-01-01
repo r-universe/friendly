@@ -29,6 +29,9 @@
 [submodule "genridge"]
 	path = genridge
 	url = https://github.com/friendly/genridge
+[submodule "ggCheysson"]
+	path = ggCheysson
+	url = https://github.com/friendly/ggCheysson
 [submodule "ggbiplot"]
 	path = ggbiplot
 	url = https://github.com/friendly/ggbiplot
