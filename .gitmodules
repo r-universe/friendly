@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/friendly/friendly.r-universe.dev
 	branch = HEAD
+[submodule "CASIdata"]
+	path = CASIdata
+	url = https://github.com/friendly/CASIdata
 [submodule "Guerry"]
 	path = Guerry
 	url = https://github.com/friendly/Guerry
