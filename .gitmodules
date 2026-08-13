@@ -38,6 +38,9 @@
 [submodule "ggbiplot"]
 	path = ggbiplot
 	url = https://github.com/friendly/ggbiplot
+[submodule "ggmosaic2"]
+	path = ggmosaic2
+	url = https://github.com/friendly/ggmosaic2
 [submodule "heplots"]
 	path = heplots
 	url = https://github.com/friendly/heplots
